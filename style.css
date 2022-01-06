@@ -28,6 +28,10 @@ h3{
 }
 .red-color{
     color: red;
+    
+}
+.orange-color{
+    color:orange;
 }
 .link-button{
     text-decoration: none;
@@ -97,6 +101,7 @@ h3{
     background-color: rgba(128, 0, 0, 0.329);
 }
 .img-size{
+    
     border-radius: 15px;
     
     
